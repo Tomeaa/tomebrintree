@@ -17,7 +17,7 @@ Gateway : Braintree Auth
 by : @FJ0FF"""
 
 onwer = 843841687
-token = "7076730204:AAFT3nq1lJ3hGP2VKOD3F9RqJhmIdbD2tgE"
+token = "7230674602:AAGusrveIZzGIKroiFanxPUD-VWhLFfVJ5o"
 
 
 bot = telebot.TeleBot(token)
