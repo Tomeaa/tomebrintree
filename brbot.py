@@ -16,7 +16,7 @@ Gateway : Braintree Auth
 
 by : @FJ0FF"""
 
-onwer = 843841687,6041232252
+onwer = 843841687
 token = "7230674602:AAGusrveIZzGIKroiFanxPUD-VWhLFfVJ5o"
 
 
