@@ -1,1 +1,1 @@
-worker: python brnbot.py
+worker: python brbot.py
